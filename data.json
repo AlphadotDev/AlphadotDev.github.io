@@ -29,6 +29,12 @@
             "desc":"Personal Portfolio Website",
             "img":"https://res.cloudinary.com/dc7dgvxow/image/upload/v1674588855/Screenshot_2023-01-25_005715_jjyiz9.png",
             "link":"https://agnivg.github.io/"
+        },
+        {
+            "name":"Video-chatting",
+            "desc":"A video chatting website",
+            "img":"https://res.cloudinary.com/dc7dgvxow/image/upload/v1674590247/Screenshot_2023-01-25_012537_ng4fpl.png",
+            "link":"https://video-chat-alpha.netlify.app/"
         }
     ]
 }
