@@ -2,7 +2,7 @@
     "data":[
         {
             "name":"Blog Website",
-            "desc":"A modern blog website with Dashboard, web analytics, cloud storage and mailing system.",
+            "desc":"A modern blog website with Dashboard, web analytics, cloud storage and mailing system",
             "img":"https://res.cloudinary.com/dc7dgvxow/image/upload/v1674411382/AlphaProjects/Neutral_Minimalist_Romantic_Photo_Collage_wdabp5.png",
             "link":"https://djmblogs.netlify.app/"
         },
@@ -14,7 +14,7 @@
         },
         {
             "name":"Quiz website",
-            "desc":"Online platform to host and participate in quiz contests.",
+            "desc":"Online platform to host and participate in quiz contests",
             "img":"https://res.cloudinary.com/dc7dgvxow/image/upload/v1674411377/AlphaProjects/screencapture-quizmaster-pythonanywhere-2022-10-04-19_47_52_egkdyv.png",
             "link":"https://quizmaster.pythonanywhere.com"
         },
@@ -35,6 +35,24 @@
             "desc":"A video chatting website",
             "img":"https://res.cloudinary.com/dc7dgvxow/image/upload/v1674590247/Screenshot_2023-01-25_012537_ng4fpl.png",
             "link":"https://video-chat-alpha.netlify.app/"
+        },
+        {
+            "name":"Medi-Board",
+            "desc":"A website to store the medical details of people",
+            "img":"https://i.postimg.cc/wT337wXD/home.png",
+            "link":"https://medi-board.netlify.app"
+        },
+        {
+            "name":"Femaissance",
+            "desc":"This platform would give freedom to its users to post ,like,chat comment and share to increase awareness among all women",
+            "img":"https://i.postimg.cc/W3T4jgVn/image.png",
+            "link":"https://femaissance.netlify.app/"
+        },
+        {
+            "name":"ArJd-Live",
+            "desc":"A realtime code-editor and compiler to ease coding interview process",
+            "img":"https://i.postimg.cc/gcVn8Frn/image.png",
+            "link":"https://arjd-live.netlify.app/"
         }
     ]
 }
