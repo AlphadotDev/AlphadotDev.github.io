@@ -53,6 +53,11 @@
             "desc":"A realtime code-editor and compiler to ease coding interview process",
             "img":"https://i.postimg.cc/gcVn8Frn/image.png",
             "link":"https://arjd-live.netlify.app/"
-        }
+        },
+        {
+            "name":"Online WhiteBoard",
+            "desc":"Uuser can write, erase, undo,redo and can even add sticky notes, add images and download the canvas",
+            "img":"https://res.cloudinary.com/dc7dgvxow/image/upload/v1675264849/AlphaProjects/scrnli_2_1_2023_8-49-13_PM_u2lrlg.png",
+            "link":"https://online-wb.netlify.app/"
     ]
 }
